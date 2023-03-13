@@ -1,13 +1,10 @@
-export const  TEAMS =[
+export const TEAMS =[
     {
         'firstName' : 'Menuk',
         'lastName'  : 'Efrim',
         'verbatim'  : 'Behaviour-driven Self-driving Conference Calls',
         'jobTitle'  : 'Full Stack 🚀',
         'profilePic': 'profil01.jpg',
-        'entry':{
-            subEntry:'yeah'
-        },
         'stack':[{
                 'label':'VueJs',
                 'level':3
@@ -40,7 +37,6 @@ export const  TEAMS =[
         'verbatim'  : 'Implement vertical convergence',
         'jobTitle'  : 'Techno-Mage',
         'profilePic': 'profil03.jpg',
-
         'stack':[{
                 'label':'Excell',
                 'level':2
